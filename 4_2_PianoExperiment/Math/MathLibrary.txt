@@ -1,0 +1,7 @@
+The MathLibrary contains additional mathematical functionalities.
+
+NadarayaWatson.py 
+	-GaussKernel  	// Computes the Gaussian kernel of data
+
+softmax.py
+	-softmax  	// Computes the softmax function

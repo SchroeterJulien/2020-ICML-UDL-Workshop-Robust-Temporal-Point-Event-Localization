@@ -1,0 +1,6 @@
+The AudioProcessing contains all the main functions to process and work with audio files.
+
+melSpectrogram.py
+	-melSpectrogram // Computes the melspectrogram of an audio extract
+	-mfcc		// Computes the mel coefficients of an audio extract
+
